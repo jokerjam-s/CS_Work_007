@@ -25,7 +25,6 @@ int InputNumber(string message)
 }
 
 
-
 // генерация двумерного массива типа double
 // параметры:
 //      rowCnt - количество строк
